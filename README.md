@@ -39,4 +39,3 @@ Semuanya saya bangun dengan desain simple, dengan menggunakan kombinasi **HTML, 
 
 ---
 **Rijaluddin Abdul Ghani**
-*Informatics Student at Syiah Kuala University*
