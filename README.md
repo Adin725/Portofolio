@@ -17,7 +17,6 @@ Semuanya saya bangun dengan desain simple, dengan menggunakan kombinasi **HTML, 
 * **Frontend**: HTML5, Vanilla CSS3, dan JavaScript (ES6+).
 * **Backend**: PHP untuk mengolah logika server dan data.
 * **Database**: MySQL untuk menyimpan riwayat pesan dan data lainnya.
-* **Design**: Figma (untuk riset tampilan sebelum masuk ke tahap *coding*).
 
 ## Struktur Folder
 
